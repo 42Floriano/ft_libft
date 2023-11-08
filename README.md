@@ -64,3 +64,4 @@ The `libft` library supports the following functions:
 - `ft_lstclear`: Deletes and frees a list.
 - `ft_lstiter`: Not done
 - `ft_lstmap`: Not done
+![lib](https://github.com/IronWyatt/ft_libft/assets/56269861/fca06337-5ef2-4f7a-a47f-23d4ff075f26)
